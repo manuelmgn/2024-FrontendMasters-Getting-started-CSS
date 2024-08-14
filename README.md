@@ -1,5 +1,7 @@
-# Year - Academy - Name of the course
+# 24_FEM_Getting Started with CSS
 
-Notes for the course "xxx" taught by xxx at xxx.
+My study files from the FrontEnd Masters Course [Getting Started with CSS](https://frontendmasters.com/courses/getting-started-css/), taught by Jen Kramer.
 
-Month Year.
+March 2024.
+
+Previously uploaded to GitLab.
